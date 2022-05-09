@@ -740,7 +740,7 @@ nav .fa-bars {
     }
 
     .header-bottom {
-        justify-content: space-around;
+        justify-content: space-between;
     }
 
     .header-bottom nav ul li {
